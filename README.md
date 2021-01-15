@@ -1,3 +1,3 @@
 ### Главная страница
 ## Отчет
-Реферат [Что такое DataOps](https://ko.com.ua/chem_horosh_dataops_i_zachem_ego_vnedryat_128720)
+Реферат [Что такое DataOps](https://www.bigdataschool.ru/blog/dataops-devops-4-big-data.html)
